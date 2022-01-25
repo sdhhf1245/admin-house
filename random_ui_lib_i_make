@@ -90,7 +90,7 @@ function Library:CreateWindow(windowname,windowinfo)
     PageFolder.Parent = PageContainer
 
     Title.Name = "Title"
-    Title.Parent = Frame
+    Title.Parent = Ferame
     Title.BackgroundColor3 = Color3.fromRGB(20, 20, 20)
     Title.BackgroundTransparency = 1.000
     Title.BorderColor3 = Color3.fromRGB(20, 20, 20)
